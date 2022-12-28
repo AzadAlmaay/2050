@@ -1,0 +1,44 @@
+body{font-family: 'Poppins', sans-serif;
+}
+
+.mynavbar {
+    background-color: #4741AF;
+    color: white;
+}
+
+
+.navbar{
+    font-weight: 800;
+    
+}
+
+.nav-link, .navbar-brand{
+    color: white;
+}
+.azad{background-color: #4741AF;
+    color: white;
+
+}
+
+
+.Azad-heading{
+    font-size: 72px;
+    font-weight: 800;
+}
+
+.azad-btn{
+    background-color: #7971FF;
+    color: white;
+    font-weight: 12px;
+    padding: 12px 58px;
+    border-radius: 30px;
+    font-size: 21px;
+}
+.azad-btn:hover{
+    background-color:white;
+    color: #7971FF;
+}
+
+.azad-text{
+    font-size: 24px;
+}
