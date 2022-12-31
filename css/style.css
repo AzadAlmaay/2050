@@ -47,7 +47,9 @@ body{font-family: 'Poppins', sans-serif;
 font-size: 35px;
 font-weight: 700;
 }
-
+.text-title-l{font-size: 45px;
+    
+}
 .text-stitle{color: #7971FF;
     font-weight: 700;
     font-size: 24px;
@@ -65,4 +67,36 @@ font-weight: 700;
 .text-p{
     font-weight: 400;
     font-size: 17px;
+}
+.navbar-brand{
+    font-size: 45px;
+}
+
+.a-img{
+    margin-left: -265px;
+}
+
+.service-img-bg{
+    background-color: rgb(243, 249, 251);
+    border-radius: 50%;  
+}
+.service-img-bg img{
+    margin-top: -101px;
+  margin-left: 46px;
+}
+
+.s-icon{
+    background-color: #6c63ff;
+    color: white;
+    padding: 13px;
+    border-radius: 50%;
+    width: 53px;
+    display: block;
+    height: 53px;
+    text-align: center;
+}
+
+.service-title{
+    font-size: 21px;
+    font-weight: 700;
 }
