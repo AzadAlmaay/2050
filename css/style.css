@@ -100,3 +100,31 @@ font-weight: 700;
     font-size: 21px;
     font-weight: 700;
 }
+
+
+.service-card:hover span{
+transform: translateX(50px);
+}
+
+.s-icon{
+    transition: 0,6s;
+}
+
+.full-s{
+    background-color:rgb(243, 249, 251) ;
+}
+
+.p-card{
+    border-bottom: 4px solid #6c63ff;
+}
+
+
+
+
+
+
+
+
+
+
+
